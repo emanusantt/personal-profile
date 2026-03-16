@@ -1,0 +1,28 @@
+1. Nome do aluno
+	Emanuelly Santiago Oliveira
+
+2. Foto
+	foto.jpg
+
+3. Sobre mim
+	- Curso Sistemas de Informação na PUC de Minas Gerais, Campus Betim.
+	- No momento eu tenho interesse em aprender tudo que o curso pode me proporcionar para eu poder ser uma boa 
+profissional, principalmente na área que almejo em trabalhar, que no caso é CyberSegurança ou IA. 
+	- Meus objetivos profissionais são focados na área de tecnologia, com busca em conhecimento nas subáreas de
+Cyber/IA. 
+
+4. Habilidades
+	- Adaptabilidade;
+	- Proatividade;
+	- Comunicação clara.
+
+5. Hobbies
+	- Ler;
+	- Assistir filmes;
+	- Aprender algo novo;
+
+6. Contato
+	Email
+	Instagram
+	Linkedin
+	GitHub

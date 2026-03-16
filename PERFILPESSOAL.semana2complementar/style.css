@@ -1,0 +1,150 @@
+
+.borda
+{
+    border: 2px solid hsla(120, 96%, 31%, 0.623);
+
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+
+    padding: 30px;
+
+    box-shadow:
+    0 0 10px hsla(120, 96%, 31%, 0.623),
+    0 0 20px hsla(120, 96%, 31%, 0.623);
+}
+
+
+body
+{
+    background-color: black;
+}
+
+
+h1
+{
+    color: hsla(120, 96%, 31%, 0.623);
+    font-family: monospace;
+    text-shadow: 0 0 2px #00ff9c;
+    
+}
+
+
+.fotosnoopy
+{
+    width: 150px;
+    border: 2px solid hsla(120, 96%, 31%, 0.623);
+    box-shadow:
+    0 0 5px hsla(120, 96%, 31%, 0.623),
+    0 0 10px hsla(120, 96%, 31%, 0.623),
+    0 0 20px hsla(120, 96%, 31%, 0.623);
+}
+
+
+h2
+{
+    color: hsla(120, 96%, 31%, 0.623);
+    font-family: monospace;
+    text-shadow: 0 0 2px #00ff9c;
+    animation: piscar 0.9s infinite;
+    font-size: 25px;
+    margin-bottom: auto;
+}
+
+@keyframes piscar {
+    0% {opacity: 1;}
+    50% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+
+p
+{
+    color: hsla(120, 96%, 31%, 0.623);
+    font-family: monospace;
+    text-shadow: 0 0 2px #00ff9c;
+    font-size: 15px;
+    margin-top: auto;
+    margin-bottom: 0px;
+
+}
+
+h3
+{
+    color: hsla(120, 96%, 31%, 0.623);
+    font-family: monospace;
+    text-shadow: 0 0 2px #00ff9c;
+    animation: piscar 0.9s infinite;
+    font-size: 25px;
+    margin-bottom: auto;
+}
+
+ul3{
+    margin-top: 0;
+    color: hsla(120, 96%, 31%, 0.623);
+    font-family: monospace;
+    text-shadow: 0 0 2px #00ff9c;
+    font-size: 15px;
+    list-style:none;
+}
+
+
+h4
+{
+    color: hsla(120, 96%, 31%, 0.623);
+    font-family: monospace;
+    text-shadow: 0 0 2px #00ff9c;
+    animation: piscar 0.9s infinite;
+    font-size: 25px;
+    margin-bottom: auto;
+}
+
+ul4{
+    margin-top: 0;
+    color: hsla(120, 96%, 31%, 0.623);
+    font-family: monospace;
+    text-shadow: 0 0 2px #00ff9c;
+    font-size: 15px;
+    list-style:none;
+}
+
+
+h5
+{
+    color: hsla(120, 96%, 31%, 0.623);
+    font-family: monospace;
+    text-shadow: 0 0 2px #00ff9c;
+    animation: piscar 0.9s infinite;
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+
+ul5{
+    margin-top: 0;
+    color: hsla(120, 96%, 31%, 0.623);
+    font-family: monospace;
+    text-shadow: 0 0 2px #00ff9c;
+    font-size: 15px;
+    list-style:none;
+}
+
+
+ul5 li
+{
+margin-bottom: 10px;
+}
+
+.icone{
+    width:30px;
+    height:30px;
+    margin-right:8px;
+    vertical-align:middle;
+}
+
+a{
+color:hsla(120, 96%, 31%, 0.623);
+}
+
+a:hover{
+text-shadow:0 0 10px hsla(120, 28%, 68%, 0.623);
+}
